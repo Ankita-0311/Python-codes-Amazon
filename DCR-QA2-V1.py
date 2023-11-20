@@ -282,17 +282,4 @@ exit_button=tk.Button(root, text="Quit", command=window_destroy, width=10)
 exit_button.grid(row=9, column=1, padx=5, pady=5)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
